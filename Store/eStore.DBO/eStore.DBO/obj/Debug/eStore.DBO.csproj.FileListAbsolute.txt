@@ -1,0 +1,12 @@
+D:\Project4Test\eStore.DBO\eStore.DBO\obj\Debug\eStore.DBO.csprojResolveAssemblyReference.cache
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\eStore.DBO.dll.config
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\eStore.DBO.dll
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\eStore.DBO.pdb
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\EntityFramework.dll
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\eStore.BL.dll
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\eStore.BL.pdb
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\EntityFramework.xml
+D:\Project4Test\eStore.DBO\eStore.DBO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project4Test\eStore.DBO\eStore.DBO\obj\Debug\eStore.DBO.dll
+D:\Project4Test\eStore.DBO\eStore.DBO\obj\Debug\eStore.DBO.pdb

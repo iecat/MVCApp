@@ -1,0 +1,5 @@
+D:\Project4Test\eStore.BL\eStore.BL\bin\Debug\eStore.BL.dll
+D:\Project4Test\eStore.BL\eStore.BL\bin\Debug\eStore.BL.pdb
+D:\Project4Test\eStore.BL\eStore.BL\obj\Debug\eStore.BL.dll
+D:\Project4Test\eStore.BL\eStore.BL\obj\Debug\eStore.BL.pdb
+D:\Project4Test\eStore.BL\eStore.BL\obj\Debug\eStore.BL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Search";
+}
+@model eStore.Models.SearchResultView
+
+<h4><span>Search</span></h4>
+<div id="stocks">
+    <ul>
+        @foreach (var p in Model.Products)
+        {
+            <li>
+                <a href="@Url.Action("Index", "Product", new { id = p.ID })" class="preview">
+                <img alt="Img" src="@p.ImageURL" />
+                <span class="icon"></span>
+                </a>
+                <span>@p.Price.PriceValue</span>
+                @p.Name
+                <em>Quick Shop</em>
+                @Html.ActionLink("Add to Cart", "Add", "Home", new { @class = "btn-cart", idP = p.ID })
+                @Html.ActionLink("Add to Wishlist", "Index", "Checkout", new { @class = "btn-wish" })
+            </li>
+        }
+    </ul>
+</div>
+<div class="footer">
+    <h4><span>Similar Items</span></h4>
+    <ul class="items">
+        <li>
+            <a href="product.html"> <img src="images/boots-brown.jpg" alt="Img"> <span>$8.50</span> Hukbalahap Boots</a>
+        </li>
+        <li>
+            <a href="product.html"> <img src="images/boots-violet.jpg" alt="Img"> <span>$8.50</span> Hukbalahap Boots</a>
+        </li>
+        <li>
+            <a href="product.html"> <img src="images/boots-yellow.jpg" alt="Img"> <span>$8.50</span> Hukbalahap Boots</a>
+        </li>
+        <li>
+            <a href="product.html"> <img src="images/boots-green.jpg" alt="Img"> <span>$8.50</span> Hukbalahap Boots</a>
+        </li>
+    </ul>
+</div>
+
